@@ -1,9 +1,13 @@
 # Xcode 14.3
 | Product                   | Version Min | Version Max |
 | ------------------------- | ----------- | ----------- |
+| .NET 7.0.2xx iOS          | 16.4.7060   | 16.4.7060   |
+| .NET 7.0.2xx tvOS         | 16.4.7060   | 16.4.7060   |
+| .NET 7.0.2xx macOS        | 13.3.7060   | 13.3.7060   |
+| .NET 7.0.2xx Mac Catalyst | 16.4.7060   | 16.4.7060   |
 | Xamarin.iOS               | 16.4.0.6    | 16.4.0.6    |
 | Xamarin.Mac               | 9.3.0.6     | 9.3.0.6     |
-NOTE: Support for 14.3 is still pre-release and can be found [here](https://github.com/xamarin/xamarin-macios/issues/17561)
+
 
 
 # Xcode 14.2
